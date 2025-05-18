@@ -1,4 +1,4 @@
-# Library - Trabalho final de computação
+# Library - Trabalho final de computação 📚
 
 > [!WARNING]
 > O projeto ainda está em desenvolvimento, erros e bugs são esperados.
